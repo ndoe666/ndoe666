@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ndoe666
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Automation
+- 🌱 I’m currently learning Automation and AI
 - 💞️ I’m looking to collaborate on Everything
 - 📫 How to reach me @ ndoe.ajie@gmail.com
 - 😄 Pronouns: ...
